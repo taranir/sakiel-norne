@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="30" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" source="../tileset/collision.tsx"/>
+ <tileset firstgid="11" name="chris" tilewidth="16" tileheight="16" spacing="2" margin="2">
+  <image source="../images/InteriorConnected.png" width="443" height="181"/>
+ </tileset>
+ <layer name="collision" width="40" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UUQoAIAhEwbr/pbtAyhLGSr2BPgpLUWgMAMALZsG6XZ/zvvJ+9/4p+bNzZ327+Gxf7bR3rvmqca75KvHZvppaU5f/L8rrnG+Uv9v/BwD41wI3pgj8wBIAAA==
+  </data>
+ </layer>
+ <layer name="everythingelse" width="40" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+WX1w3CMBCGswd9BxAwBAJ2oAxhyhaUIWgzkFC24n8IkmXFvrtgYsrDJ9kkPn+xyZ0TR1GUgAu4ghuIU/Tf4wzMcXfHdSpmYonJGWfeT3mZc9oczDZ3Pup5bH6cZ7T1uXF9+1Hji/Dj/t9C+nGc/8HP9n5Re/kpftx3QTqfbz8qV4f0K4EyqIAqqIE6aKR913XJe5DXb0rQAiMwBhOt3Sxo/ZYECszAHCy0tirIz7V2yqBn9EOvn/qA/W2DDuhmrNeTkPvbBwMwBDuHo4/9deUt2xh9vjXYgC1YvWF/X/HbgwM4glPa972/efzOUXYNoWoKVT8k9ZpT36j7pGcfH36Ss4B0rC8/7lkgxPng2/x8nUd+xU/6/RHaj1rfPHGluYybk7h5jxtXkmttuZ+qCS5HE1csW5wH6L/IAsASAAA=
+  </data>
+ </layer>
+</map>
